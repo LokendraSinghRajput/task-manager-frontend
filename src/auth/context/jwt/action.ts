@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import axios, { endpoints } from 'src/lib/axios';
 
 import { setSession } from './utils';

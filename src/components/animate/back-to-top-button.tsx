@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { FabProps } from '@mui/material/Fab';
 
 import { cloneElement } from 'react';

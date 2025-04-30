@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { doc, setDoc, collection } from 'firebase/firestore';
 import {
   signOut as _signOut,

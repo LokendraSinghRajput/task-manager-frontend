@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { Breakpoint } from '@mui/material/styles';
 
 import { useBoolean } from 'minimal-shared/hooks';

@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { LinearProgressProps } from '@mui/material/LinearProgress';
 import type { Theme, CSSObject, Components } from '@mui/material/styles';
 

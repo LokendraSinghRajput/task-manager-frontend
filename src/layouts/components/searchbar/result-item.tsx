@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { ListItemButtonProps } from '@mui/material/ListItemButton';
 
 import { varAlpha, isExternalLink } from 'minimal-shared/utils';

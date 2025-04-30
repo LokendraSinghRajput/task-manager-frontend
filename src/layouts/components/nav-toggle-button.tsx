@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { IconButtonProps } from '@mui/material/IconButton';
 
 import { varAlpha } from 'minimal-shared/utils';

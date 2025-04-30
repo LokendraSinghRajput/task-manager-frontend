@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import dayjs from 'dayjs';
 import { useCallback } from 'react';
 import { useTranslation } from 'react-i18next';

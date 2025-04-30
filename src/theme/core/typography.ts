@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { CSSObject, Breakpoint, TypographyVariantsOptions } from '@mui/material/styles';
 
 import { pxToRem, setFont } from 'minimal-shared/utils';

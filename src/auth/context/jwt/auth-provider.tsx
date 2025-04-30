@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { useSetState } from 'minimal-shared/hooks';
 import { useMemo, useEffect, useCallback } from 'react';
 

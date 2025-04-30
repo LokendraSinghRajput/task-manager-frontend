@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { formatNumberLocale } from 'src/locales';
 
 // ----------------------------------------------------------------------

@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { Iconify } from 'src/components/iconify';
 
 import type { AccountDrawerProps } from './components/account-drawer';

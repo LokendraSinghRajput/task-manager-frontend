@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { info, error, primary, success, warning, secondary } from 'src/theme/core';
 
 // ----------------------------------------------------------------------

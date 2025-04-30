@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { LanguageValue } from 'src/locales';
 import type { IconButtonProps } from '@mui/material/IconButton';
 

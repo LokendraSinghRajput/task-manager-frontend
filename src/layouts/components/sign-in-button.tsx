@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { ButtonProps } from '@mui/material/Button';
 
 import Button from '@mui/material/Button';

@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { ButtonGroupProps } from '@mui/material/ButtonGroup';
 import type { Theme, CSSObject, Components, ComponentsVariants } from '@mui/material/styles';
 

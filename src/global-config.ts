@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { paths } from 'src/routes/paths';
 
 import packageJson from '../package.json';

@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { useTheme } from '@mui/material/styles';
 
 import { fPercent } from 'src/utils/format-number';

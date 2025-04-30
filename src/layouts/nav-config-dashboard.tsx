@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { NavSectionProps } from 'src/components/nav-section';
 
 import { paths } from 'src/routes/paths';

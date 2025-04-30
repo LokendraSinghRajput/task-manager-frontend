@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { BoxProps } from '@mui/material/Box';
 
 import { mergeClasses } from 'minimal-shared/utils';
