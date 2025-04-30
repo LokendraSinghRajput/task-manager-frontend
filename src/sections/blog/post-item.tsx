@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { IPostItem } from 'src/types/blog';
 import type { BoxProps } from '@mui/material/Box';
 import type { CardProps } from '@mui/material/Card';

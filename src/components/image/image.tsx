@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { UseInViewOptions } from 'framer-motion';
 import type { Breakpoint } from '@mui/material/styles';
 

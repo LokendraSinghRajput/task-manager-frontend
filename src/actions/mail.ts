@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { SWRConfiguration } from 'swr';
 import type { IMail, IMailLabel } from 'src/types/mail';
 

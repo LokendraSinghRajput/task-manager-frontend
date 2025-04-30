@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { CONFIG } from 'src/global-config';
 
 import { AmplifySignUpView } from 'src/auth/view/amplify';

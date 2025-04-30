@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { MarkerProps } from 'react-map-gl/mapbox';
 
 import { Marker } from 'react-map-gl/mapbox';

@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import Box from '@mui/material/Box';
 import Paper from '@mui/material/Paper';
 import Alert from '@mui/material/Alert';

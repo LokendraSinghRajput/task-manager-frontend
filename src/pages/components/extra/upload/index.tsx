@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { CONFIG } from 'src/global-config';
 
 import { UploadView } from 'src/sections/_examples/extra/upload-view';

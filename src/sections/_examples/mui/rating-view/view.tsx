@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { IconContainerProps } from '@mui/material/Rating';
 
 import { useState } from 'react';

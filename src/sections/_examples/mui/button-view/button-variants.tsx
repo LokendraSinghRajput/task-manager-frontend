@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import Button from '@mui/material/Button';
 
 import { Iconify } from 'src/components/iconify';

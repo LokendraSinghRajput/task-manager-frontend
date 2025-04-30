@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { MapRef } from 'react-map-gl/mapbox';
 import type { MapProps } from 'src/components/map';
 

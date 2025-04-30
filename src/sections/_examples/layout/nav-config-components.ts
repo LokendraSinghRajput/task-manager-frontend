@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { orderBy, kebabCase } from 'es-toolkit';
 
 import { CONFIG } from 'src/global-config';

@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { ToggleButtonProps } from '@mui/material/ToggleButton';
 import type { Theme, CSSObject, Components } from '@mui/material/styles';
 

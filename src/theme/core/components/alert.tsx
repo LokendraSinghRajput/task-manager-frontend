@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { AlertProps } from '@mui/material/Alert';
 import type { SvgIconProps } from '@mui/material/SvgIcon';
 import type { Theme, CSSObject, Components } from '@mui/material/styles';

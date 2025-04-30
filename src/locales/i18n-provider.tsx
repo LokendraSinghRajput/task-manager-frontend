@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import i18next from 'i18next';
 import { getStorage } from 'minimal-shared/utils';
 import resourcesToBackend from 'i18next-resources-to-backend';

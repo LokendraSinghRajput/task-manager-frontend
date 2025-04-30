@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { CONFIG } from 'src/global-config';
 
 import { CarouselView } from 'src/sections/_examples/extra/carousel-view';

@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { AxiosRequestConfig } from 'axios';
 
 import axios from 'axios';

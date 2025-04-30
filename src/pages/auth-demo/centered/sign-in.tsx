@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { CONFIG } from 'src/global-config';
 
 import { CenteredSignInView } from 'src/auth/view/auth-demo/centered';

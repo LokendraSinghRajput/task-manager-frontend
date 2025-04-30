@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { TreeViewBaseItem } from '@mui/x-tree-view/models';
 
 import { varAlpha } from 'minimal-shared/utils';

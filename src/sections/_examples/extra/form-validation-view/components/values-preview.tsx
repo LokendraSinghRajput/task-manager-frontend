@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { FieldValues } from 'react-hook-form';
 import type { Theme, SxProps } from '@mui/material/styles';
 

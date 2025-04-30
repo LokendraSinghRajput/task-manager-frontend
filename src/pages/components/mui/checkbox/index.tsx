@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { CONFIG } from 'src/global-config';
 
 import { CheckboxView } from 'src/sections/_examples/mui/checkbox-view';

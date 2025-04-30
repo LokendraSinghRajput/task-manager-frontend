@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { useTabs } from 'minimal-shared/hooks';
 
 import Tab from '@mui/material/Tab';

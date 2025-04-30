@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { ICheckoutItem, CheckoutContextValue } from 'src/types/checkout';
 
 import Box from '@mui/material/Box';

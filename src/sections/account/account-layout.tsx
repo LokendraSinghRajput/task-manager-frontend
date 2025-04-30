@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { DashboardContentProps } from 'src/layouts/dashboard';
 
 import { removeLastSlash } from 'minimal-shared/utils';

@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { Chart, useChart } from 'src/components/chart';
 
 // ----------------------------------------------------------------------

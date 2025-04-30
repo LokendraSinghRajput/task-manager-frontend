@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { SettingsState } from 'src/components/settings';
 import type { Theme, CSSObject } from '@mui/material/styles';
 

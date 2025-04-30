@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { CONFIG } from 'src/global-config';
 
 import { OverviewBankingView } from 'src/sections/overview/banking/view';

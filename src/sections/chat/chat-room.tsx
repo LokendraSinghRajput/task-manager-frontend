@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { BoxProps } from '@mui/material/Box';
 import type { IChatParticipant, IChatConversation } from 'src/types/chat';
 

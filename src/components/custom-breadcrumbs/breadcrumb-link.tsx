@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { Theme, SxProps } from '@mui/material/styles';
 
 import Link from '@mui/material/Link';

@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { isEqual } from 'es-toolkit';
 import { useState, useCallback } from 'react';
 

@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { BoxProps } from '@mui/material/Box';
 
 import { m } from 'framer-motion';

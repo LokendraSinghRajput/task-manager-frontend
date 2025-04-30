@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { PaperProps } from '@mui/material/Paper';
 import type { DialogProps } from '@mui/material/Dialog';
 import type { CheckoutContextValue } from 'src/types/checkout';

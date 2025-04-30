@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { CSSObject, Breakpoint } from '@mui/material/styles';
 
 import { remToPx } from 'minimal-shared/utils';

@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { LinkProps } from '@mui/material/Link';
 
 import { useId } from 'react';

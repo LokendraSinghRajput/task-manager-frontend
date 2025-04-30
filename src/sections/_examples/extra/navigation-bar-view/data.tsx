@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { NavBasicProps } from 'src/components/nav-basic';
 import type { NavSectionProps } from 'src/components/nav-section';
 

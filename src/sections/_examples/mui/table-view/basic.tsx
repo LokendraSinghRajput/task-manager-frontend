@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { TableHeadCellProps } from 'src/components/table';
 
 import Table from '@mui/material/Table';

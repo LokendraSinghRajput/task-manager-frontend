@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { ThemeProviderProps as MuiThemeProviderProps } from '@mui/material/styles';
 
 import CssBaseline from '@mui/material/CssBaseline';

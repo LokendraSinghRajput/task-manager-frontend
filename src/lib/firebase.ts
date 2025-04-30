@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { FirebaseApp } from 'firebase/app';
 import type { Auth as AuthType } from 'firebase/auth';
 import type { Firestore as FirestoreType } from 'firebase/firestore';

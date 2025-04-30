@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { CardProps } from '@mui/material/Card';
 
 import { useForm, Controller } from 'react-hook-form';

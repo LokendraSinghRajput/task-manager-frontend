@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { IDatePickerControl } from 'src/types/common';
 
 import { useState, useCallback } from 'react';

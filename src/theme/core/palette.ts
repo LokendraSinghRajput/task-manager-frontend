@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { PaletteColor, ColorSystemOptions, PaletteColorChannel } from '@mui/material/styles';
 
 import { varAlpha, createPaletteChannel } from 'minimal-shared/utils';

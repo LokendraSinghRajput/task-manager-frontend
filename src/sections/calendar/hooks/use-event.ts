@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { ICalendarEvent, ICalendarRange } from 'src/types/calendar';
 
 import dayjs from 'dayjs';

@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { varAlpha, mergeClasses } from 'minimal-shared/utils';
 
 import { styled } from '@mui/material/styles';

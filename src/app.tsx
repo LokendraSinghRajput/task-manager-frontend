@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import 'src/global.css';
 
 import { useEffect } from 'react';

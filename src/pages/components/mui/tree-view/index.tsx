@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { CONFIG } from 'src/global-config';
 
 import { TreeView } from 'src/sections/_examples/mui/tree-view';

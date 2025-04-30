@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { useState, useCallback } from 'react';
 import { useBoolean } from 'minimal-shared/hooks';
 

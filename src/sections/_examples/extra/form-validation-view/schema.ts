@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { z as zod } from 'zod';
 import { isValidPhoneNumber } from 'react-phone-number-input/input';
 

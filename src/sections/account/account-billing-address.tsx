@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { IAddressItem } from 'src/types/common';
 
 import { useState, useCallback } from 'react';

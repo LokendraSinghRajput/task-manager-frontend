@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { mergeClasses } from 'minimal-shared/utils';
 import ReactLightbox, { useLightboxState } from 'yet-another-react-lightbox';
 

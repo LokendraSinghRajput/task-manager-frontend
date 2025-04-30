@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { IChatParticipant } from 'src/types/chat';
 
 import { useRef, useMemo, useState, useCallback } from 'react';

@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { MegaMenuProps } from 'src/components/mega-menu';
 
 import { _mock } from 'src/_mock';

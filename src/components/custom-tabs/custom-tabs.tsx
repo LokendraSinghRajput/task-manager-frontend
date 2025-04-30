@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { TabsProps } from '@mui/material/Tabs';
 import type { Theme, SxProps } from '@mui/material/styles';
 

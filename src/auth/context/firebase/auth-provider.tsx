@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { doc, getDoc } from 'firebase/firestore';
 import { onAuthStateChanged } from 'firebase/auth';
 import { useSetState } from 'minimal-shared/hooks';

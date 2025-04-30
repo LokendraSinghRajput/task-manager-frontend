@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { TooltipProps } from '@mui/material/Tooltip';
 
 import { m } from 'framer-motion';

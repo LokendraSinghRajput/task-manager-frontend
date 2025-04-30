@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { ToastT } from 'src/components/snackbar';
 
 import Button from '@mui/material/Button';

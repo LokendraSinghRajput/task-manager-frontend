@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import Paper from '@mui/material/Paper';
 
 import { NavSectionMini } from 'src/components/nav-section';

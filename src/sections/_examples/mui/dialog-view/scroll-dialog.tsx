@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { DialogProps } from '@mui/material/Dialog';
 
 import { useBoolean } from 'minimal-shared/hooks';

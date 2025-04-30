@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { CONFIG } from 'src/global-config';
 
 import { ButtonView } from 'src/sections/_examples/mui/button-view';

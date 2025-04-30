@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { SWRConfiguration } from 'swr';
 import type { UniqueIdentifier } from '@dnd-kit/core';
 import type { IKanban, IKanbanTask, IKanbanColumn } from 'src/types/kanban';

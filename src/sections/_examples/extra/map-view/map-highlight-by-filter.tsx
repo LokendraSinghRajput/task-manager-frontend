@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { Theme } from '@mui/material/styles';
 import type { MapProps } from 'src/components/map';
 import type { MapMouseEvent, FillLayerSpecification } from 'react-map-gl/mapbox';

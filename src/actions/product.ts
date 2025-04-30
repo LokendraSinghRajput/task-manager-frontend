@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { SWRConfiguration } from 'swr';
 import type { IProductItem } from 'src/types/product';
 

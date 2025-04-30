@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { Theme, CSSObject } from '@mui/material/styles';
 import type { ContainerProps } from '@mui/material/Container';
 import type { CustomBreadcrumbsProps } from 'src/components/custom-breadcrumbs';

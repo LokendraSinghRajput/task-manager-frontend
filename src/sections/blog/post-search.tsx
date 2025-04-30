@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { IPostItem } from 'src/types/blog';
 import type { Theme, SxProps } from '@mui/material/styles';
 

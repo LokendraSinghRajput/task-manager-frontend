@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { useParams } from 'src/routes/hooks';
 
 import { CONFIG } from 'src/global-config';

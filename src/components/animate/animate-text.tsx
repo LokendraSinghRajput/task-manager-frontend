@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { Theme, SxProps } from '@mui/material/styles';
 import type { TypographyProps } from '@mui/material/Typography';
 import type { Variants, UseInViewOptions } from 'framer-motion';

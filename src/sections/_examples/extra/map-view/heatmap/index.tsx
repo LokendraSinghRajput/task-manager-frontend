@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { MapProps } from 'src/components/map';
 
 import { Layer, Source } from 'react-map-gl/mapbox';

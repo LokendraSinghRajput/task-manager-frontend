@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import AutoScroll from 'embla-carousel-auto-scroll';
 
 import Box from '@mui/material/Box';

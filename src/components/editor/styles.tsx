@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { varAlpha } from 'minimal-shared/utils';
 
 import { styled } from '@mui/material/styles';

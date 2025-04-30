@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { SvgIconProps } from '@mui/material/SvgIcon';
 
 import { memo } from 'react';

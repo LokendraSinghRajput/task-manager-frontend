@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { Breakpoint } from '@mui/material/styles';
 import type { ContainerProps } from '@mui/material/Container';
 

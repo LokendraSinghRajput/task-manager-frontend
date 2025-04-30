@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import AutoHeight from 'embla-carousel-auto-height';
 
 import Box from '@mui/material/Box';

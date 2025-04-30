@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { OrganizationalChart } from 'src/components/organizational-chart';
 
 import { GroupNode } from './group-node';

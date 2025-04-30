@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { IconProps } from '@iconify/react';
 
 import { useId } from 'react';

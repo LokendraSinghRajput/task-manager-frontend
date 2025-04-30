@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { ColorSystem } from '@mui/material/styles';
 import type { SettingsState } from 'src/components/settings';
 

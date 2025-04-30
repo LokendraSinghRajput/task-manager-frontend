@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { CONFIG } from 'src/global-config';
 
 import { AvatarView } from 'src/sections/_examples/mui/avatar-view';

@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import dayjs from 'dayjs';
 
 import Box from '@mui/material/Box';

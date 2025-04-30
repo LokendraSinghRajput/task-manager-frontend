@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import Divider from '@mui/material/Divider';

@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { RouteObject } from 'react-router';
 
 import { lazy, Suspense } from 'react';

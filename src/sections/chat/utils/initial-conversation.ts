@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { IChatParticipant } from 'src/types/chat';
 
 import { uuidv4 } from 'minimal-shared/utils';

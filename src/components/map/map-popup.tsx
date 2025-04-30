@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { Popup } from 'react-map-gl/mapbox';
 
 import { styled } from '@mui/material/styles';

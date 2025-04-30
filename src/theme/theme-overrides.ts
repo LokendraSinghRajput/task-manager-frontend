@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { createPaletteChannel } from 'minimal-shared/utils';
 
 import type { ThemeOptions } from './types';
