@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { CONFIG } from 'src/global-config';
 
 import { MegaMenuView } from 'src/sections/_examples/extra/mega-menu-view';

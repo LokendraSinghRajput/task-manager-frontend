@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { CONFIG } from 'src/global-config';
 
 import { OverviewEcommerceView } from 'src/sections/overview/e-commerce/view';

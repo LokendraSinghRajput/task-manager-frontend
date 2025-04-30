@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { GeoJSONSource } from 'mapbox-gl';
 import type { MapProps } from 'src/components/map';
 import type { MapRef, LayerProps, LngLatLike, MapMouseEvent } from 'react-map-gl/mapbox';

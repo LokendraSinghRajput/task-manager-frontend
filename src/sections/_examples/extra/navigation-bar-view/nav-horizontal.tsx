@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import Paper from '@mui/material/Paper';
 
 import { NavSectionHorizontal } from 'src/components/nav-section';

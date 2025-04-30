@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { CONFIG } from 'src/global-config';
 
 import { ScrollProgressView } from 'src/sections/_examples/extra/scroll-progress-view';

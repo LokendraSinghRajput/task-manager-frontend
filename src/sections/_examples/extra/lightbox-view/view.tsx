@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { Slide, SlideImage, SlideVideo } from 'yet-another-react-lightbox';
 
 import { useState } from 'react';

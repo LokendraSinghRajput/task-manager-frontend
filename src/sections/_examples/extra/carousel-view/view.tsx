@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { _mock } from 'src/_mock';
 
 import { CarouselFade } from './carousel-fade';

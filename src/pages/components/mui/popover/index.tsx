@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { CONFIG } from 'src/global-config';
 
 import { PopoverView } from 'src/sections/_examples/mui/popover-view';

@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { CONFIG } from 'src/global-config';
 
 import { TimelineView } from 'src/sections/_examples/mui/timeline-view';

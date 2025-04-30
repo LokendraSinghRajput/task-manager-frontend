@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { CONFIG } from 'src/global-config';
 
 import { NavigationBarView } from 'src/sections/_examples/extra/navigation-bar-view';

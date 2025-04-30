@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import Autoplay from 'embla-carousel-autoplay';
 
 import Box from '@mui/material/Box';

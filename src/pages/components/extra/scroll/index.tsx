@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { CONFIG } from 'src/global-config';
 
 import { ScrollbarView } from 'src/sections/_examples/extra/scrollbar-view';

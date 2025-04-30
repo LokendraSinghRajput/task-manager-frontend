@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { CONFIG } from 'src/global-config';
 
 import { SwitchView } from 'src/sections/_examples/mui/switch-view';

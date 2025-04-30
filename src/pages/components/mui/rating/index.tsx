@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { CONFIG } from 'src/global-config';
 
 import { RatingView } from 'src/sections/_examples/mui/rating-view';

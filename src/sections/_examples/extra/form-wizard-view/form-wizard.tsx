@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { z as zod } from 'zod';
 import { useForm } from 'react-hook-form';
 import { useState, useCallback } from 'react';

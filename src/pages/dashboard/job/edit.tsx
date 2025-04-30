@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { useParams } from 'src/routes/hooks';
 
 import { _jobs } from 'src/_mock/_job';

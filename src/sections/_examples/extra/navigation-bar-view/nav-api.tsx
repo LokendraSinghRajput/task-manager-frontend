@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import useSWR from 'swr';
 import { useMemo } from 'react';
 

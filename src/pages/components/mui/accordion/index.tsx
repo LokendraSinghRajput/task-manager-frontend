@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { CONFIG } from 'src/global-config';
 
 import { AccordionView } from 'src/sections/_examples/mui/accordion-view';

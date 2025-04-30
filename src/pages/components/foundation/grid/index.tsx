@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { CONFIG } from 'src/global-config';
 
 import { GridView } from 'src/sections/_examples/foundation/grid-view';

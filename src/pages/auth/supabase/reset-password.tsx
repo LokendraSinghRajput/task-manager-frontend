@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { CONFIG } from 'src/global-config';
 
 import { SupabaseResetPasswordView } from 'src/auth/view/supabase';

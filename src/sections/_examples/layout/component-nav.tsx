@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { Theme, SxProps } from '@mui/material/styles';
 
 import { isEqualPath, mergeClasses } from 'minimal-shared/utils';

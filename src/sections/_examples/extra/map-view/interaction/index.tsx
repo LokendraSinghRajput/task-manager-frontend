@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { MapProps } from 'src/components/map';
 
 import { useState, useCallback } from 'react';

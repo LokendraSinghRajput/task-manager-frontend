@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { useParams } from 'src/routes/hooks';
 
 import { _tours } from 'src/_mock/_tour';

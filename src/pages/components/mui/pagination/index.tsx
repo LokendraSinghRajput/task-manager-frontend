@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { CONFIG } from 'src/global-config';
 
 import { PaginationView } from 'src/sections/_examples/mui/pagination-view';

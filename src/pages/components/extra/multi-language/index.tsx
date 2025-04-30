@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { CONFIG } from 'src/global-config';
 
 import { MultiLanguageView } from 'src/sections/_examples/extra/multi-language-view';

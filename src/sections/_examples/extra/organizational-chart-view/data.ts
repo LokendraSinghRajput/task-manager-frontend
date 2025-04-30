@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { Theme, SxProps } from '@mui/material/styles';
 import type { OrgChartBaseNode } from 'src/components/organizational-chart';
 

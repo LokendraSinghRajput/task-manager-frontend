@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import Container from '@mui/material/Container';
 import Typography from '@mui/material/Typography';
 

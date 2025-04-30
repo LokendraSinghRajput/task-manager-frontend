@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { varAlpha } from 'minimal-shared/utils';
 
 import Box from '@mui/material/Box';

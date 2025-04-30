@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { Dayjs } from 'dayjs';
 import type { LanguageValue } from 'src/locales';
 

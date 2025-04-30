@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { useForm } from 'react-hook-form';
 import { useBoolean } from 'minimal-shared/hooks';
 import { zodResolver } from '@hookform/resolvers/zod';

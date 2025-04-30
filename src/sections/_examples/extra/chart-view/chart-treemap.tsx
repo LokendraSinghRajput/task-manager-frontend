@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { useTheme } from '@mui/material/styles';
 
 import { Chart, useChart } from 'src/components/chart';
