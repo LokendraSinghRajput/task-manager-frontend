@@ -6,9 +6,6 @@ import { useMemo } from 'react';
 
 import { fetcher, endpoints } from 'src/lib/axios';
 
-
-
-
 // ----------------------------------------------------------------------
 
 const swrOptions: SWRConfiguration = {
