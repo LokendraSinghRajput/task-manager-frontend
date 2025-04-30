@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { m } from 'framer-motion';
 
 import IconButton from '@mui/material/IconButton';

@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { TransitionProps } from '@mui/material/transitions';
 
 import { useBoolean } from 'minimal-shared/hooks';

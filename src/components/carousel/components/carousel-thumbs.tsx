@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { Children, isValidElement } from 'react';
 import { mergeClasses } from 'minimal-shared/utils';
 

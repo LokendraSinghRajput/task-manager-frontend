@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { ICalendarEvent } from 'src/types/calendar';
 
 import { z as zod } from 'zod';

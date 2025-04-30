@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { IDateValue } from 'src/types/common';
 import type { RatingProps } from '@mui/material/Rating';
 import type {

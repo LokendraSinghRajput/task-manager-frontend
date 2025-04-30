@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { StepIconProps } from '@mui/material/StepIcon';
 
 import { useState } from 'react';

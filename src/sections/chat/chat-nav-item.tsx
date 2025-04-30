@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { IChatConversation } from 'src/types/chat';
 
 import { useCallback, startTransition } from 'react';

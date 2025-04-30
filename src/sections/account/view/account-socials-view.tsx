@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { _userAbout } from 'src/_mock';
 
 import { AccountSocials } from '../account-socials';

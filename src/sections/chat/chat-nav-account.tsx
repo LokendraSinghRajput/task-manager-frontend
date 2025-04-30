@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { BadgeProps } from '@mui/material/Badge';
 import type { SelectChangeEvent } from '@mui/material/Select';
 

@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { Theme, Components, ComponentsVariants } from '@mui/material/styles';
 
 import { varAlpha } from 'minimal-shared/utils';

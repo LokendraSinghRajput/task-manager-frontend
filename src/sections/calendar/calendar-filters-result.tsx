@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { ICalendarFilters } from 'src/types/calendar';
 import type { UseSetStateReturn } from 'minimal-shared/hooks';
 import type { FiltersResultProps } from 'src/components/filters-result';

@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { StackProps } from '@mui/material/Stack';
 import type { Theme, SxProps } from '@mui/material/styles';
 

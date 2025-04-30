@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { useBoolean } from 'minimal-shared/hooks';
 
 import Table from '@mui/material/Table';

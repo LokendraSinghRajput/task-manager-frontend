@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { SelectChangeEvent } from '@mui/material/Select';
 
 import { useState, useCallback } from 'react';

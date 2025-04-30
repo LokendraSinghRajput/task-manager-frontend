@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { FileUploadType } from 'src/components/upload';
 
 import Box from '@mui/material/Box';

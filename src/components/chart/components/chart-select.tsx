@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { ButtonBaseProps } from '@mui/material/ButtonBase';
 
 import { varAlpha } from 'minimal-shared/utils';

@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { upperFirst } from 'es-toolkit';
 import { mergeClasses } from 'minimal-shared/utils';
 

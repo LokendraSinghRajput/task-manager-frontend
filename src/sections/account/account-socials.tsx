@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { ISocialLink } from 'src/types/common';
 
 import { useForm } from 'react-hook-form';

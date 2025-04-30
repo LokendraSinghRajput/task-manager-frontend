@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { IChatAttachment } from 'src/types/chat';
 
 import { useBoolean } from 'minimal-shared/hooks';

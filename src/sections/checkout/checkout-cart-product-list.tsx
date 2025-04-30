@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { CheckoutContextValue } from 'src/types/checkout';
 import type { TableHeadCellProps } from 'src/components/table';
 

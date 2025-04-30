@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { Theme, SxProps } from '@mui/material/styles';
 import type { MapRef, MapProps as ReactMapProps } from 'react-map-gl/mapbox';
 

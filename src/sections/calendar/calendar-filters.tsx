@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import type { IDatePickerControl } from 'src/types/common';
 import type { UseSetStateReturn } from 'minimal-shared/hooks';
 import type { ICalendarEvent, ICalendarFilters } from 'src/types/calendar';

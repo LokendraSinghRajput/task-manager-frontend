@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { lazy, Suspense } from 'react';
 import { useIsClient } from 'minimal-shared/hooks';
 import { mergeClasses } from 'minimal-shared/utils';

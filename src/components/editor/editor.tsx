@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { common, createLowlight } from 'lowlight';
 import LinkExtension from '@tiptap/extension-link';
 import Underline from '@tiptap/extension-underline';
